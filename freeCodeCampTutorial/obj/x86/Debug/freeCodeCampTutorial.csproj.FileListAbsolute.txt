@@ -1,0 +1,6 @@
+/Users/angeltorres/Projects/freeCodeCampTutorial/freeCodeCampTutorial/bin/Debug/freeCodeCampTutorial.exe
+/Users/angeltorres/Projects/freeCodeCampTutorial/freeCodeCampTutorial/bin/Debug/freeCodeCampTutorial.pdb
+/Users/angeltorres/Projects/freeCodeCampTutorial/freeCodeCampTutorial/obj/x86/Debug/freeCodeCampTutorial.csprojAssemblyReference.cache
+/Users/angeltorres/Projects/freeCodeCampTutorial/freeCodeCampTutorial/obj/x86/Debug/freeCodeCampTutorial.csproj.CoreCompileInputs.cache
+/Users/angeltorres/Projects/freeCodeCampTutorial/freeCodeCampTutorial/obj/x86/Debug/freeCodeCampTutorial.exe
+/Users/angeltorres/Projects/freeCodeCampTutorial/freeCodeCampTutorial/obj/x86/Debug/freeCodeCampTutorial.pdb
